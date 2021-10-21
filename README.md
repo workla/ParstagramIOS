@@ -23,7 +23,11 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-First video shows new user signing up and being allowed in, creating a post with an image and caption and submitting, and the tableview showing the new post in it.
+This video shows the app icon and launch screen are stylized.
+
+<img src='http://g.recordit.co/He4B171r17.gif' title='App Icon and Launch Screen' width='' alt='App Icon and Launch Screen' />
+
+This video shows new user signing up and being allowed in, creating a post with an image and caption and submitting, and the tableview showing the new post in it.
 
 <img src='http://g.recordit.co/xPHCVyMpIa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
