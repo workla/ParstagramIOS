@@ -33,8 +33,12 @@ This video shows new user signing up and being allowed in, creating a post with 
 
 This video shows a user not in the system trying to log in and not being successful, and then switching to a known user logging in.  This also shows the tableview with posts, and the infinite scroll loading more.
 
-<img src='http://g.recordit.co/xPHCVyMpIa.gif' title='More Features' width='' alt='More Features' />
+<img src='http://g.recordit.co/2hILZBsDU3.gif' title='More Features' width='' alt='More Features' />
 
 This video shows the pull to refresh with a new post.
 
 <img src='http://g.recordit.co/jDeMkJVTWe.gif' title='Pull To Refresh' width='' alt='Pull To Refresh' />
+
+This video shows logging in and infinite scroll
+<img src='http://g.recordit.co/vIv6RA5yLP.gif' title='Log in and Infinite scroll' width='' alt='Log in and Infinite scroll' />
+
