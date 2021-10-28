@@ -151,7 +151,7 @@
                                             <outlet property="photoView" destination="4vo-6y-FPY" id="NSd-JD-y6t"/>
                                         </connections>
                                     </tableViewCell>
-                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="CommentCell" id="jWH-Pw-5CX" customClass="CommentCell" customModule="Parstagram" customModuleProvider="target">
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" reuseIdentifier="CommentCell" id="jWH-Pw-5CX" customClass="CommentCell" customModule="Parstagram" customModuleProvider="target">
                                         <rect key="frame" x="0.0" y="421.5" width="414" height="37.5"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="jWH-Pw-5CX" id="Pj2-eH-oU8">
@@ -188,16 +188,16 @@
                                         </connections>
                                     </tableViewCell>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="none" indentationWidth="10" reuseIdentifier="AddCommentCell" id="Mfh-aE-JSC">
-                                        <rect key="frame" x="0.0" y="459" width="414" height="37.5"/>
+                                        <rect key="frame" x="0.0" y="459" width="414" height="37"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Mfh-aE-JSC" id="AZg-BW-8xi">
-                                            <rect key="frame" x="0.0" y="0.0" width="414" height="37.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="37"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Add a comment .." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Pkn-jn-5oY">
-                                                    <rect key="frame" x="16" y="8" width="390" height="21.5"/>
+                                                    <rect key="frame" x="16" y="8" width="390" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                                    <nil key="textColor"/>
+                                                    <color key="textColor" systemColor="systemGray2Color"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                             </subviews>
@@ -328,6 +328,9 @@
         </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray2Color">
+            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
