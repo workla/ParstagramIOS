@@ -23,14 +23,22 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-First video shows new user signing up and being allowed in, creating a post with an image and caption and submitting, and the tableview showing the new post in it.
+This video shows the app icon and launch screen are stylized.
+
+<img src='http://g.recordit.co/He4B171r17.gif' title='App Icon and Launch Screen' width='' alt='App Icon and Launch Screen' />
+
+This video shows new user signing up and being allowed in, creating a post with an image and caption and submitting, and the tableview showing the new post in it.
 
 <img src='http://g.recordit.co/xPHCVyMpIa.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 This video shows a user not in the system trying to log in and not being successful, and then switching to a known user logging in.  This also shows the tableview with posts, and the infinite scroll loading more.
 
-<img src='http://g.recordit.co/xPHCVyMpIa.gif' title='More Features' width='' alt='More Features' />
+<img src='http://g.recordit.co/2hILZBsDU3.gif' title='More Features' width='' alt='More Features' />
 
 This video shows the pull to refresh with a new post.
 
 <img src='http://g.recordit.co/jDeMkJVTWe.gif' title='Pull To Refresh' width='' alt='Pull To Refresh' />
+
+This video shows logging in and infinite scroll
+<img src='http://g.recordit.co/vIv6RA5yLP.gif' title='Log in and Infinite scroll' width='' alt='Log in and Infinite scroll' />
+
